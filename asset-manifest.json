@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/gym/static/css/main.1c302e06.css",
+    "main.js": "/gym/static/js/main.8d2608e4.js",
+    "static/js/453.7476e934.chunk.js": "/gym/static/js/453.7476e934.chunk.js",
+    "static/media/t-image1.png": "/gym/static/media/t-image1.c16c2c261034cf78ee57.png",
+    "static/media/image1.png": "/gym/static/media/image1.1091417d32e491f0bbb6.png",
+    "static/media/image2.png": "/gym/static/media/image2.82da8b2725df896d8a8e.png",
+    "static/media/2436.png": "/gym/static/media/2436.0bb927d1d08135a5eb7a.png",
+    "static/media/body.png": "/gym/static/media/body.19cb5edee1cc4890a3f0.png",
+    "static/media/t-image3.jpg": "/gym/static/media/t-image3.3894413f7bf2b4f1fc54.jpg",
+    "static/media/image3.png": "/gym/static/media/image3.69484cb0ee7687a8c28b.png",
+    "static/media/rising.png": "/gym/static/media/rising.118d4a367f39d7f33d7f.png",
+    "static/media/image4.png": "/gym/static/media/image4.2c0d30b9ce1579eb1109.png",
+    "static/media/pngegg.png": "/gym/static/media/pngegg.e164e42d9e996ac37296.png",
+    "static/media/t-image2.jpg": "/gym/static/media/t-image2.f5d2e52e514c544dfffb.jpg",
+    "static/media/StayfIT5.png": "/gym/static/media/StayfIT5.06a2e87c66c67622b2b8.png",
+    "static/media/StayfIT4.png": "/gym/static/media/StayfIT4.79d20506dd553677e70e.png",
+    "static/media/logo.svg": "/gym/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gym/index.html",
+    "main.1c302e06.css.map": "/gym/static/css/main.1c302e06.css.map",
+    "main.8d2608e4.js.map": "/gym/static/js/main.8d2608e4.js.map",
+    "453.7476e934.chunk.js.map": "/gym/static/js/453.7476e934.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c302e06.css",
+    "static/js/main.8d2608e4.js"
+  ]
+}
